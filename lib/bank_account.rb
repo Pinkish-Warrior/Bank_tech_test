@@ -37,15 +37,3 @@ class BankAccount
     rand(13**13)
   end
 end
-
-# p "up running yey yo"
-
-# bank_account = BankAccount.new
-# bank_account.deposit(10)
-# bank_account.withdraw(2).
-# bank_account.withdraw(2)
-# bank_account.withdraw(2)
-# bank_account.balance.transaction_time
-
-
-# needed to create instance variables as the methods have to talking to each other
